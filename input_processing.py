@@ -28,7 +28,7 @@ class Sensor:
     # It takes 'self', an instance of the Sensor class, as an argument and updates the instance's attributes based on user input
     def update_status(self): 
 
-        # Starts and infinite loop to continuously prompt for input          
+        # Starts an infinite loop to continuously prompt for input          
         while True:
 
             try:
